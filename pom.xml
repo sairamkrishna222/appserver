@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.srk.learning</groupId>
 	<artifactId>app-service</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.2</version>
 	<name>app-service</name>
 	<description>movieReview for building application</description>
 	<properties>
